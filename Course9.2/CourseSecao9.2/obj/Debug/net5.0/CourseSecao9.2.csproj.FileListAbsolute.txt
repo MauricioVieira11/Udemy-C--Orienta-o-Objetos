@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\CourseSecao9.2.exe
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\CourseSecao9.2.deps.json
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\CourseSecao9.2.runtimeconfig.json
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\CourseSecao9.2.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\CourseSecao9.2.dll
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\ref\CourseSecao9.2.dll
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\bin\Debug\net5.0\CourseSecao9.2.pdb
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.dll
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\ref\CourseSecao9.2.dll
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.pdb
+C:\Users\mauri\source\repos\Course9.2\CourseSecao9.2\obj\Debug\net5.0\CourseSecao9.2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\StringsInteressantes.exe
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\StringsInteressantes.deps.json
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\StringsInteressantes.runtimeconfig.json
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\StringsInteressantes.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\StringsInteressantes.dll
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\ref\StringsInteressantes.dll
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\bin\Debug\net5.0\StringsInteressantes.pdb
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.dll
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\ref\StringsInteressantes.dll
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.pdb
+C:\Users\mauri\source\repos\Secao7\StringsInteressantes\obj\Debug\net5.0\StringsInteressantes.genruntimeconfig.cache

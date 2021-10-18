@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\Course3.exe
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\Course3.deps.json
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\Course3.runtimeconfig.json
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\Course3.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\Course3.dll
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\ref\Course3.dll
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\bin\Debug\net5.0\Course3.pdb
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.dll
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\ref\Course3.dll
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.pdb
+C:\Users\mauri\source\repos\Udemy\Secao13\Course3\obj\Debug\net5.0\Course3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\Secao14.exe
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\Secao14.deps.json
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\Secao14.runtimeconfig.json
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\Secao14.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\Secao14.dll
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\ref\Secao14.dll
+C:\Users\mauri\source\repos\Secao14\Secao14\bin\Debug\net5.0\Secao14.pdb
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.dll
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\ref\Secao14.dll
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.pdb
+C:\Users\mauri\source\repos\Secao14\Secao14\obj\Debug\net5.0\Secao14.genruntimeconfig.cache
